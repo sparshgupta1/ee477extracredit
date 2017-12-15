@@ -1,15 +1,5 @@
 .selected {
-  animation-name: selection;
-  animation-duration: 3s;
-}
-
-@keyframes selection {
-  from {
-    background-color: magenta;
-  }
-  to {
-    background-color: none;
-  }
+  color: magenta;
 }
 
 .Notselected {
